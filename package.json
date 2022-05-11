@@ -1,0 +1,22 @@
+{
+  "name": "vue-resume",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "jQuery": "^1.7.4",
+    "pinia": "^2.0.13",
+    "vue": "^3.2.33",
+    "vue-router": "^4.0.14"
+  },
+  "devDependencies": {
+    "@rollup/plugin-inject": "^4.0.4",
+    "@vitejs/plugin-vue": "^2.3.1",
+    "sass": "^1.29.0",
+    "sass-loader": "^10.0.5",
+    "vite": "^2.9.5"
+  }
+}
